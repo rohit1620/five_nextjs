@@ -16,6 +16,8 @@ const Home = () => {
       <Link href="/serverlist">servertList</Link> <br />
       <Link href="/style">style</Link> <br />
       <Link href="/css-modules">css_modules</Link> <br />
+      <Link href="/conditionStyle">ConditionStyle</Link> <br />
+      <Link href="/imageOptimization">imageOptimization</Link> <br />
     </div>
   );
 };
