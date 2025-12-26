@@ -18,6 +18,9 @@ const Home = () => {
       <Link href="/css-modules">css_modules</Link> <br />
       <Link href="/conditionStyle">ConditionStyle</Link> <br />
       <Link href="/imageOptimization">imageOptimization</Link> <br />
+      <Link href="/fontOptimization"> fontOptimization</Link> <br />
+      <Link href="/dynamicMetaData"> dynamicMetaData</Link> <br />
+      <Link href="/scriptComponent">scriptComponent</Link> <br />
     </div>
   );
 };
