@@ -21,6 +21,8 @@ const Home = () => {
       <Link href="/fontOptimization"> fontOptimization</Link> <br />
       <Link href="/dynamicMetaData"> dynamicMetaData</Link> <br />
       <Link href="/scriptComponent">scriptComponent</Link> <br />
+      <Link href="/loadingData">loadingData</Link> <br />
+      <Link href="/staticAssete">staticAssete</Link> <br />
     </div>
   );
 };

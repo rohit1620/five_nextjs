@@ -29,12 +29,18 @@ export default function RootLayout({ children }) {
 {/* <head>
  <script src="/feature.js"></script>
 </head> */}
+
+<head>
+  {/* <link rel='stylesheet' href="/style.css"></link> */}
+   <script src="/script.js" async></script>
+</head>
       <body className={`${geistSans.variable} ${geistMono.variable}`}>
        
         <h1 style={{color:"green"}}>Comman Layout for RootLayout</h1>
          <Link href='/home'>Home Page</Link>
         {children}
       </body>
+     
     </html>
   );
 }
